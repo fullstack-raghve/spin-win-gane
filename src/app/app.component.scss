@@ -1,0 +1,27 @@
+
+h1 {
+    text-align: center;
+  }
+  .button{
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+  
+    background-image: linear-gradient(red, yellow);
+  }
+  ngx-wheel{
+    display: flex;
+    justify-content: center;
+    align-items: centers;
+   
+  }
+  .btn{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+  }
+  
